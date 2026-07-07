@@ -18,7 +18,7 @@ A collection of modern UI styles, components, and animation ideas for frontend p
 | [Mesh Gradient Generator](https://csshero.org/mesher/) | Colorful blurred gradient blobs. Useful for modern backgrounds behind glass cards. |
 | [Claymorphism Generator](https://hype4.academy/tools/claymorphism-generator) | Rounded 3D clay-like cards and buttons with soft shadows and playful depth. |
 | [Neo Brutalism Inspiration](https://dribbble.com/search/neobrutalism) | Bold borders, strong shadows, loud colors, and raw layout style. |
-| [Fluid]([https://ui.glass/generator/](https://krackeddevs.com/showcase/project/c1183aeb-f0df-4c55-b351-ba8007257ef0)) | Fluid Visual |
+| [Fluid](https://ui.glass/generator/](https://krackeddevs.com/showcase/project/c1183aeb-f0df-4c55-b351-ba8007257ef0)) | Fluid Visual |
 | [Cyberpunk UI Inspiration](https://dribbble.com/search/cyberpunk-ui) | Futuristic interface style using neon colors, sharp panels, glow, and tech patterns. |
 | [Holographic Texture Maker](https://fffuel.co/hhholographic/) | Iridescent/holographic gradient texture for futuristic and premium design. |
 | [Minimal Premium UI](https://www.landingfolio.com/) | Clean spacing, strong typography, simple layout, subtle shadows, and premium landing page inspiration. |
