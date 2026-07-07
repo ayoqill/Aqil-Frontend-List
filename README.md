@@ -33,7 +33,7 @@ A collection of modern UI styles, components, and animation ideas for frontend p
 | [Card Component - shadcn/ui](https://ui.shadcn.com/docs/components/card) | Basic modern card component for dashboards, content blocks, pricing cards, and profiles. |
 | [Command Palette - shadcn/ui](https://ui.shadcn.com/docs/components/command) | Modern `Cmd + K` search menu for quick actions, navigation, and AI command input. |
 | [Sidebar - shadcn/ui](https://ui.shadcn.com/docs/components/sidebar) | Collapsible dashboard sidebar with icons, menus, and active states. |
-| [Dashboard Cards - Tremor](https://tremor.so/docs/components/card](https://www.tremor.so/)) | Dashboard-focused card components for KPIs, analytics, charts, and admin panels. |
+| [Dashboard Cards - Tremor](https://www.tremor.so/) | Dashboard-focused card components for KPIs, analytics, charts, and admin panels. |
 | [Input Component - shadcn/ui](https://ui.shadcn.com/docs/components/input) | Clean input design for search bars, forms, login pages, and AI prompts. |
 | [Stepper - Material UI](https://mui.com/material-ui/react-stepper/) | Step-by-step progress component for onboarding, checkout, and workflow screens. |
 | [Timeline - Material UI](https://mui.com/material-ui/react-timeline/) | Timeline component for history, progress updates, tasks, and project flow. |
